@@ -1,5 +1,5 @@
 <!-- Banner de bienvenida -->
-<h1 align="center">Hola 👋, soy NicoSox GD</h1>
+<h1 align="center">Hola 👋, soy NicoSox</h1>
 <h3 align="center">Desarrollador Full Stack | Apasionado por crear aplicaciones web y móviles eficientes y escalables</h3>
 
 ---
@@ -16,6 +16,14 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
+---
+
+## 🏆 Logros & Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NicoSox&theme=radical&no-frame=true&margin-w=15" />
+</p>
 
 ---
 
@@ -58,15 +66,6 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoSox&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoSox&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📁 Proyectos Destacados
 
 | Proyecto | Descripción | Tecnologías | Link |
@@ -74,16 +73,6 @@
 | **MiPortfolio** | Portfolio web personal con proyectos y blogs | React + Vite, Tailwind CSS | [Ver Proyecto](https://portfoliosox.netlify.app/) |
 | **Gestor de Tareas** | App de gestión de tareas y usuarios | Node.js, MySQL, JavaScript | [GitHub](https://github.com/NicoSox/gestor-tareas) |
 | **Blog App** | Aplicación de blog full-stack | Python, Flask, SQLAlchemy, Bootstrap | [GitHub](https://github.com/NicoSox/blog-app) |
-
----
-
-## 🏆 Logros y Extras
-
-- Full Stack Developer con experiencia en **proyectos web complejos** y APIs REST.  
-- Implementación de buenas prácticas de código, testing y escalabilidad.  
-- Adaptabilidad a nuevas tecnologías y frameworks.  
-- Capacidad de trabajo tanto **individual como en equipo ágil**.  
-- Experiencia con metodologías modernas y revisión de código colaborativa.  
 
 ---
 
@@ -95,4 +84,3 @@
 - 🌐 Portfolio: [portfoliosox.netlify.app](https://portfoliosox.netlify.app/)  
 
 ---
-
