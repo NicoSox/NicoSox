@@ -74,6 +74,8 @@
 | **Gestor de Tareas** | App de gestión de tareas y usuarios | Node.js, MySQL, JavaScript | [GitHub](https://github.com/NicoSox/gestor-tareas) |
 | **Blog App** | Aplicación de blog full-stack | Python, Flask, SQLAlchemy, Bootstrap | [GitHub](https://github.com/NicoSox/blog-app) |
 
+*(Podés agregar capturas o GIFs de los proyectos dentro de cada celda para mayor impacto visual)*
+
 ---
 
 ## 📫 Contacto
@@ -84,3 +86,5 @@
 - 🌐 Portfolio: [portfoliosox.netlify.app](https://portfoliosox.netlify.app/)  
 
 ---
+
+
